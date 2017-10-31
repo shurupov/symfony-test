@@ -1,0 +1,11 @@
+{
+  "install" : {
+    "php" : true,
+    "mysql" : true,
+    "apache" : true,
+    "phpmyadmin" : true,
+    "project" : true
+  },
+  "dbPassword" : "12345",
+  "githubToken": ""
+}
